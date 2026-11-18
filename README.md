@@ -1,4 +1,4 @@
-## Hi There, My name is  Lionnel Messi Munezero Hirwa 
+## Hi There, My name is  Lionnel  Munezero Hirwa 
 
 I'm a first-year student at **Clark University** in Worcester, Massachusetts, originally from **Kigali, Rwanda**. I'm interested in **data science, computer science, and business data analysis**, and in building technology that solves real problems for real people.
 
